@@ -86,18 +86,16 @@ class Developer
 ---
 
 ## 📊 GitHub Statistics
-
 <div align="center">
   
-[![GitHub Stats][![Amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=amrachraf6699)](https://github.com/amrachraf6699/github-readme-stats)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amrachraf6699&show_icons=true&theme=tokyonight)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amrachraf6699&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/amrachraf6699)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=amrachraf6699&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=amrachraf6699&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak][![GitHub Streak](https://streak-stats.demolab.com/?user=amrachraf6699)](https://git.io/streak-stats)
+[![GitHub Streak2](https://streak-stats.demolab.com?user=amrachraf6699&theme=tokyonight)](https://github.com/amrachraf6699)
 
 </div>
+
 
 ---
 
