@@ -89,7 +89,7 @@ class Developer
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amrachraf6699&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/amrachraf6699)
+[![GitHub Stats][![Amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=amrachraf6699)](https://github.com/amrachraf6699/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amrachraf6699&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/amrachraf6699)
 
@@ -177,8 +177,6 @@ class Developer
 
 **Tech Stack:** Laravel, MySQL, HyperPay API
 
-🔗 [Live Preview](https://edafa.com.sa)
-
 </details>
 
 <details>
@@ -197,7 +195,7 @@ class Developer
 
 **Tech Stack:** Laravel, Yakeen API, MySQL
 
-🔗 [Live Preview](https://albir.sa)
+🔗 [Live Preview](https://benef.albir.sa)
 
 </details>
 
@@ -217,7 +215,7 @@ class Developer
 
 **Tech Stack:** Laravel, JavaScript, HyperPay, Tailwind CSS
 
-🔗 [Live Preview](https://oula.sa)
+🔗 [Live Preview](https://oula.org.sa)
 
 </details>
 
@@ -236,7 +234,7 @@ class Developer
 
 **Tech Stack:** Laravel, Yakeen API, JavaScript
 
-🔗 [Live Preview](https://alafaf.sa)
+🔗 [Live Preview](https://alafaf.org.sa)
 
 </details>
 
@@ -288,7 +286,7 @@ class Developer
 
 **Tech Stack:** Laravel, Stripe, Tailwind CSS
 
-🔗 [GitHub](https://github.com/amrachraf6699/Sadaqah) | [Demo](https://sadaqah.amrachraf.tech)
+🔗 [GitHub](https://github.com/amrachraf6699/Sadaqah) | [Demo](https://www.youtube.com/watch?v=6CnWe7KyIek))
 
 </details>
 
@@ -302,7 +300,7 @@ Research management platform for Middle East University
 - 🔍 Research dissemination system
 - 👥 User-friendly interface for institutions
 
-🔗 [GitHub](https://github.com/amrachraf6699/MEU-Jordan) | [Demo](https://meu.amrachraf.tech)
+🔗 [GitHub](https://github.com/amrachraf6699/MEU-Jordan) | [Demo](https://www.youtube.com/watch?v=l7KfQ8oXHek&feature=youtu.be)
 
 ### 🛒 American SHOP
 E-commerce platform with efficient order management
@@ -310,7 +308,7 @@ E-commerce platform with efficient order management
 - 📦 Order management system
 - 🎨 Intuitive shopping experience
 
-🔗 [Live Preview](https://americanshop.amrachraf.tech) | [GitHub](https://github.com/amrachraf6699/American-SHOP)
+🔗 [GitHub](https://github.com/amrachraf6699/American-SHOP)
 
 ### 📺 LiveJock (3eish Jawwak)
 Live TV broadcasting application
@@ -318,7 +316,6 @@ Live TV broadcasting application
 - 💳 Stripe payment integration
 - 📱 Real-time streaming
 
-🔗 [Live Preview](https://3eishjawwak.com)
 
 ### 🎫 TicketIT
 Event ticketing application
@@ -405,23 +402,3 @@ Interactive praise application
 </div>
 
 ---
-
-<div align="center">
-
-### 🌟 Support My Work
-
-If you find my projects helpful, consider giving them a ⭐
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/amrachraf)
-
-</div>
-
----
-
-<div align="center">
-  
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-
-**© 2025 Amr Achraf. Built with 💙 using Laravel**
-
-</div>
