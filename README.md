@@ -85,7 +85,7 @@ class Developer
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Streak
 <div align="center">
 
 <p align="center">
