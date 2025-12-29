@@ -87,13 +87,10 @@ class Developer
 
 ## 📊 GitHub Statistics
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amrachraf6699&show_icons=true&theme=tokyonight)
 
-
-[![GitHub Streak][![GitHub Streak](https://streak-stats.demolab.com/?user=amrachraf6699)](https://git.io/streak-stats)
-[![GitHub Streak2](https://streak-stats.demolab.com?user=amrachraf6699&theme=tokyonight)](https://github.com/amrachraf6699)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amrachraf6699&theme=github-dark&hide_border=true" />
+</p>
 </div>
 
 
