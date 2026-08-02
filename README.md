@@ -1,78 +1,151 @@
-# Amr Achraf - Laravel Backend Developer | Full-Stack Capable
+<div align="center">
 
-I build reliable Laravel applications and API-driven systems for payment, charity, CMS, ERP, and business workflows. I combine backend ownership with practical full-stack delivery to turn product requirements into maintainable, responsive experiences.
+# Hi, I'm Amr Achraf 👋
 
-[Portfolio](https://amrachraf.cloud) | [LinkedIn](https://linkedin.com/in/amrachraf6690) | [Email](mailto:amrachraf6690@gmail.com) | [GitHub](https://github.com/amrachraf6699)
+### Laravel Backend Developer | Full-Stack Capable | AI-Assisted Development
 
-## What I work on
+I build reliable Laravel applications and API-driven systems for payment, charity, CMS, and ERP platforms — turning product requirements into maintainable, production-ready experiences.
 
-- Laravel backends and REST APIs for web and business platforms
-- Payment integrations, webhooks, and secure transaction flows with HyperPay, Stripe, Paymob, PayPal, and SurePay
-- CMS platforms, admin dashboards, role-based access, and component systems
-- Database design, queue processing, imports/exports, and operational workflows
-- Responsive multilingual interfaces with Arabic RTL and English LTR support
-- AI-assisted development as a delivery practice for debugging, implementation, and iteration
+[![Portfolio](https://img.shields.io/badge/Portfolio-amrachraf.cloud-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amrachraf.cloud)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amrachraf6690-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amrachraf6690)
+[![Email](https://img.shields.io/badge/Email-amrachraf6690%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrachraf6690@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-amrachraf6699-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrachraf6699)
 
-## Technical stack
+</div>
 
-- **Backend:** PHP, Laravel, REST APIs, Eloquent ORM, queues, webhooks, Laravel Modules
-- **Frontend:** JavaScript, Vue.js, Inertia.js, Livewire, HTML, CSS, Tailwind CSS
-- **Data and architecture:** MySQL, database design, modular monoliths, HMVC, role and permission systems
-- **Integrations:** HyperPay, Paymob, Stripe, PayPal, SurePay, Yakeen, FCM, Pusher
-- **Tooling:** Git, GitHub, Composer, NPM, Vite, Postman
+---
 
-## Experience
+## 🧭 About Me
 
-### Share Adawli - Laravel Developer
-*January 2025-present | Nasr City, Cairo*
+Backend-focused Laravel developer with strong full-stack range, currently building charity, payment, and CMS platforms at **Share Adawli** in Cairo. I've delivered systems across fintech, ERP, and digital platforms — from cashback engines and donation kiosks to research management tools and bilingual CMS builders.
 
-Develop Laravel solutions for charities, payment systems, and custom CMS platforms. Work includes API development, external service integration, UI fixes, feature delivery, and collaboration on scalable, secure applications.
+I use AI-assisted tooling (Claude, Codex) as part of my regular workflow to move faster on debugging, scaffolding, and iteration, while keeping code clean and maintainable.
 
-### EraTech Jordan - Full-Stack Developer
-*June 2024-November 2024 | Remote*
+- 🔭 Currently building Laravel APIs and CMS platforms for charity and payment systems
+- 💳 Deep experience with payment gateway integrations — HyperPay, Stripe, Paymob, PayPal, SurePay
+- 🌐 Ship bilingual, RTL/LTR-ready interfaces for Arabic and English audiences
+- 🤖 Use AI-assisted development as a core part of my delivery practice
+- 🎓 B.Sc. Computer Science, Damanhour University
 
-Developed and maintained web systems and APIs across a varied technology stack, supporting more than five applications.
+---
 
-### MAFA Agricultural - Full-Stack Developer
-*March 2024-June 2024*
+## 🛠️ Tech Stack
 
+**Backend**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Laravel Modules](https://img.shields.io/badge/Laravel%20Modules-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+**Frontend**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Data & Architecture**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HMVC](https://img.shields.io/badge/HMVC-1a1a1a?style=flat-square)
+![Modular Monolith](https://img.shields.io/badge/Modular%20Monolith-1a1a1a?style=flat-square)
+
+**Integrations**
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)
+HyperPay · Paymob · SurePay · Yakeen · FCM · Pusher
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## 💼 Experience
+
+**Laravel Developer — Share Adawli** · *Jan 2025 – Present · Nasr City, Cairo*
+Build Laravel solutions for charities, payment systems, and custom CMS platforms. API development, external service integration, UI fixes, and feature delivery on scalable, secure applications.
+
+**Full-Stack Developer — EraTech Jordan** · *Jun 2024 – Nov 2024 · Remote*
+Developed and maintained web systems and APIs across a varied technology stack, supporting 5+ applications.
+
+**Full-Stack Developer — MAFA Agricultural** · *Mar 2024 – Jun 2024*
 Built POS and ERP systems that improved operational efficiency by 10%.
 
-## Selected projects
+---
 
-### EidMaker - Custom Eid Greeting Card Generator
-**Role:** Full-Stack Developer
+## 🚀 Featured Projects
 
-Built a card-creation platform with live previews, drag-and-drop text editing, Arabic and English support, PNG downloads, public sharing links, and an admin dashboard for templates, categories, settings, and generation statistics.
+### 💳 [Edafa](https://amrachraf.cloud) — Cashback Platform
+Full cashback platform built from scratch: branch, employee, campaign, and subscription management with a custom permissions system and cashback-eligibility rules.
+`Laravel` `PHP` `REST APIs` `HyperPay`
 
-**Stack:** Laravel, Tailwind CSS, JavaScript, Interact.js, html-to-image
+### 🕌 Beneficiaries System — AlBir Charity
+Dynamic, rules-based service application system with beneficiary tracking, volunteer sponsorship, and inventory-based donation vouchers (cash & in-kind).
+`Laravel` `MySQL` `Yakeen API`
 
-### Dental Clinic & Appointment Booking System
-**Role:** Full-Stack Developer
+### 🧩 Oula — CMS & Page Builder
+Drag-and-drop content management system with reusable components and HyperPay support for MADA, Visa/Mastercard, and Apple Pay.
+`Laravel` `PHP` `HyperPay`
 
-Designed and developed a clinic website with doctor and service directories, booking availability, duplicate-booking prevention, private patient tracking links, administrative scheduling, and booking notifications.
+### 🎉 EidMaker — Custom Eid Greeting Card Generator
+Live-preview card editor with drag-and-drop text positioning, font/color customization, Arabic & English support, PNG export, and public sharing links.
+`Laravel` `Tailwind CSS` `Interact.js` `html-to-image`
 
-**Stack:** Laravel, JavaScript, Tailwind CSS, React
+### 🦷 Dental Clinic & Appointment Booking System
+Full clinic website with doctor/service directories, availability-based booking, duplicate-booking prevention, private tracking links, and admin scheduling.
+`Laravel` `React` `Tailwind CSS`
 
-### Selfapps Donation Kiosk API Platform
-**Role:** Backend Developer
+### 🖋️ Diwan Al Kitabah — Corporate Writing Services Website
+Premium bilingual site for a Saudi writing & printing company, featuring an interactive 3D book component, dark/light mode, and animated Islamic ornaments.
+`React 18` `TypeScript` `Tailwind CSS` `GSAP`
 
-Built a secure Laravel API for charity kiosks with instant donation creation, webhook-based payment confirmation, automated error handling and logging, and HyperPay and SurePay payment workflows.
+### 🏧 Selfapps — Donation Kiosk API Platform
+Secure Laravel API for charity kiosks: instant donation creation, webhook-based payment confirmation, and automated error handling.
+`Laravel` `REST APIs` `HyperPay` `SurePay`
 
-**Stack:** Laravel, REST APIs, HyperPay, SurePay
+### 🎓 Student Research Management Platform — Middle East University
+Research submission and approval platform with role-based access, PDF/Excel exporting, and full audit trails for academic institutions.
+`Laravel 10` `Tailwind CSS` `PDF Generation`
 
-### Edafa Cashback Platform
-**Role:** Full-Stack Developer
+### 👨‍🏫 Teachify — Teacher Management Platform
+HMVC-style modular monolith for teachers, parents, and students with role-based portals, attendance, exams, and Arabic RTL / English LTR support.
+`Laravel` `Vue.js` `Inertia.js` `Laravel Modules`
 
-Developed a cashback platform from the ground up, including branch, employee, campaign, subscription, permission, and cashback-eligibility management, with HyperPay integration.
+### 💝 Sadaqah — Donation Management Platform
+Campaign-based donation platform with Stripe payments, PDF invoicing, and a Filament-powered admin panel.
+`Laravel` `Filament` `Stripe`
 
-**Stack:** Laravel, PHP, REST APIs, database design, HyperPay
+<details>
+<summary><b>See more projects</b></summary>
+<br>
 
-## Education
+- **TicketIT** — Event ticketing app with Sanctum API authentication and SMS notifications
+- **Ezkor-rabbak** — Interactive Livewire app focused on daily praise/dhikr
+- **Saudi Real Estate Brokers Data Extraction** — Automated data-extraction pipeline producing structured Excel datasets from Saudi General Authority for Real Estate records
 
-**Bachelor of Computer Science** - Damanhour University  
-*September 2020-June 2024*
+</details>
 
-## Contact
+---
 
-I'm open to remote Laravel backend and full-stack opportunities, client projects, and product collaborations. Reach me through [email](mailto:amrachraf6690@gmail.com) or [LinkedIn](https://linkedin.com/in/amrachraf6690).
+## 🎓 Education
+
+**Bachelor of Computer Science** — Damanhour University · *Sep 2020 – Jun 2024*
+
+---
+
+## 📫 Let's Connect
+
+I'm open to remote Laravel backend and full-stack opportunities, client projects, and product collaborations.
+
+📧 [amrachraf6690@gmail.com](mailto:amrachraf6690@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/amrachraf6690) · 🌐 [Portfolio](https://amrachraf.cloud)
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=amrachraf6699&color=blue&style=flat-square)
+
+</div>
